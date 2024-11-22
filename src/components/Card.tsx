@@ -1,5 +1,3 @@
-import './Card.scss';
-
 type CardProps = {
     name: string;
 };
